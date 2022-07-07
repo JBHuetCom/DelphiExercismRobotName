@@ -1,0 +1,21 @@
+{
+  "blurb": "Manage robot factory settings.",
+  "authors": [
+    "filiptoskovic"
+  ],
+  "contributors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uRobotName.pas"
+    ],
+    "test": [
+      "uRobotNameTests.pas"
+    ],
+    "example": [
+      ".meta/uRobotNameExample.pas"
+    ]
+  },
+  "source": "A debugging session with Paul Blackwell at gSchool."
+}
